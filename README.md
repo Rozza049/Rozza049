@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rozza049
-- 👀 I’m interested in making games and learning cybersecurity
-- 🌱 I’m currently learning the above
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I fence
+- 👀 Computer Science Student
+- 🌱 Currently figuring out basics of Linux and then cybersecurity
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I do fencing
