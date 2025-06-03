@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rozza049
 - 👀 Computer Science Student
-- 🌱 Currently figuring out basics of Linux and then cybersecurity
+- 🌱 Currently figuring out basics of Linux and cybersecurity
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I do fencing
