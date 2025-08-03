@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rozza049
 - 👀 Computer Science Student
 - 🌱 Currently figuring out mora about Linux
-- 😄 Pronouns: he/him
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I do fencing
